@@ -142,17 +142,14 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - details: >-
-          ## Lorem ipsum
+      - details: >
+          ## Skill Enhancing Workshops
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Ready to take Professional workshops for UG/PG/MBA students in career
+          counselling, marketing, product management, agri export, banking,
+          legal aspects of businesses, Digital marketing, etc. Ready to do
+          practical business research
         highlight: false
         actions: []
         type: pricing_plan
