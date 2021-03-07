@@ -104,7 +104,6 @@ sections:
     background: gray
     pricing_plans:
       - title: Business Research and Advocacy
-        price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
