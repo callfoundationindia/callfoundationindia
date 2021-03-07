@@ -19,6 +19,15 @@ params:
       - label: Join Us
         url: /style-guide
         style: link
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
       - label: Contact Us
         url: /signup
         style: primary
