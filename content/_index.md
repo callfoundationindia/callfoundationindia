@@ -128,17 +128,16 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
+        details: >
+          ## Developing Entrepreneurs
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          We provide hands on experience to young and talented minds who want to
+          explore the field of Food and Agribusiness. We will provide you with
+          opportunities to work on real life problems faced by farmers,
+          agribusinesses, FPOs etc. All we require from you is enthusiasm and
+          passion to learn and grow under the guidance of experienced
+          professionals from diverse backgrounds.
         highlight: false
         actions: []
         type: pricing_plan
