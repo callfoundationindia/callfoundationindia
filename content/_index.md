@@ -114,7 +114,6 @@ sections:
         actions: []
         type: pricing_plan
       - title: Network and Linkages
-        price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
