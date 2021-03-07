@@ -11,7 +11,7 @@ params:
       - label: Home
         url: /
         style: link
-      - label: Features
+      - label: About Us
         url: /features
         style: link
       - label: Pricing
