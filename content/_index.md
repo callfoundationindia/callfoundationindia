@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Call Foundation
     actions:
-      - label: Learn More
+      - label: Contact Us
         url: /features
         style: primary
   - section_id: features
