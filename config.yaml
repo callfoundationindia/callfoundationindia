@@ -16,6 +16,7 @@ params:
         style: link
       - url: /pricing
         style: link
+        label: Our Work
       - label: Join Us
         url: /style-guide
         style: link
