@@ -125,7 +125,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-        subtitle: Network and Linkages
     type: section_pricing
   - section_id: recent-posts
     type: section_posts
