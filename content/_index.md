@@ -105,6 +105,9 @@ sections:
     pricing_plans:
       - title: Business Research and Advocacy
         details: >
+          ## Business Research and Advocacy
+
+
           Consulting to FPOs / Community businesses / Cooperatives- Starting a
           new community business like FPO/FPC/Cooperative from scratch in rural
           and agribusinesses. Helping the existing businesses/institutions in
