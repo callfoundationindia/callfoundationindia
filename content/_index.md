@@ -114,17 +114,14 @@ sections:
         actions: []
         type: pricing_plan
       - title: Network and Linkages
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: >
+          Open to Associate with Food and Agriculture universities (State and
+          Central Agricultural Universities), Research institutions (ICAR,CGIAR,
+          etc) local agribusiness enterprises, government bodies and departments
+          to disseminate information among farmers and agribusinesses to raise
+          the production and profitability. Also, we would be providing support
+          through extension activities carried out by the employees/volunteers
+          of the organisations.
         highlight: false
         actions: []
         type: pricing_plan
