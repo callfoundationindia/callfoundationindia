@@ -10,6 +10,63 @@ sections:
       - label: Contact Us
         url: /features
         style: primary
+       
+  - section_id: lorem-ipsum
+    title: What we do
+    background: gray
+    pricing_plans:
+      - details: >
+          ## Business Research and Advocacy
+
+
+          Consulting to FPOs / Community businesses / Cooperatives- Starting a
+          new community business like FPO/FPC/Cooperative from scratch in rural
+          and agribusinesses. Helping the existing businesses/institutions in
+          market linkage, strategy, day to day business activities, tie-ups,
+          etc.
+        highlight: false
+        actions: []
+        type: pricing_plan
+      - details: >
+          ## Network and Linkages
+
+
+          Open to Associate with Food and Agriculture universities (State and
+          Central Agricultural Universities), Research institutions (ICAR,CGIAR,
+          etc) local agribusiness enterprises, government bodies and departments
+          to disseminate information among farmers and agribusinesses to raise
+          the production and profitability. Also, we would be providing support
+          through extension activities carried out by the employees/volunteers
+          of the organisations.
+        highlight: false
+        actions: []
+        type: pricing_plan
+      - details: >
+          ## Developing Entrepreneurs
+
+
+          We provide hands on experience to young and talented minds who want to
+          explore the field of Food and Agribusiness. We will provide you with
+          opportunities to work on real life problems faced by farmers,
+          agribusinesses, FPOs etc. All we require from you is enthusiasm and
+          passion to learn and grow under the guidance of experienced
+          professionals from diverse backgrounds.
+        highlight: false
+        actions: []
+        type: pricing_plan
+      - details: >
+          ## Skill Enhancing Workshops
+
+
+          Ready to take Professional workshops for UG/PG/MBA students in career
+          counselling, marketing, product management, agri export, banking,
+          legal aspects of businesses, Digital marketing, etc. Ready to do
+          practical business research
+        highlight: false
+        actions: []
+        type: pricing_plan
+    type: section_pricing
+        
   - section_id: features
     type: section_features
     background: gray
@@ -95,61 +152,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: lorem-ipsum
-    title: What we do
-    background: gray
-    pricing_plans:
-      - details: >
-          ## Business Research and Advocacy
 
-
-          Consulting to FPOs / Community businesses / Cooperatives- Starting a
-          new community business like FPO/FPC/Cooperative from scratch in rural
-          and agribusinesses. Helping the existing businesses/institutions in
-          market linkage, strategy, day to day business activities, tie-ups,
-          etc.
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - details: >
-          ## Network and Linkages
-
-
-          Open to Associate with Food and Agriculture universities (State and
-          Central Agricultural Universities), Research institutions (ICAR,CGIAR,
-          etc) local agribusiness enterprises, government bodies and departments
-          to disseminate information among farmers and agribusinesses to raise
-          the production and profitability. Also, we would be providing support
-          through extension activities carried out by the employees/volunteers
-          of the organisations.
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - details: >
-          ## Developing Entrepreneurs
-
-
-          We provide hands on experience to young and talented minds who want to
-          explore the field of Food and Agribusiness. We will provide you with
-          opportunities to work on real life problems faced by farmers,
-          agribusinesses, FPOs etc. All we require from you is enthusiasm and
-          passion to learn and grow under the guidance of experienced
-          professionals from diverse backgrounds.
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - details: >
-          ## Skill Enhancing Workshops
-
-
-          Ready to take Professional workshops for UG/PG/MBA students in career
-          counselling, marketing, product management, agri export, banking,
-          legal aspects of businesses, Digital marketing, etc. Ready to do
-          practical business research
-        highlight: false
-        actions: []
-        type: pricing_plan
-    type: section_pricing
   - section_id: recent-posts
     type: section_posts
     background: gray
