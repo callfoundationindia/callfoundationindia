@@ -100,7 +100,6 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: What we do
-    subtitle: lorem-ipsum
     background: gray
     pricing_plans:
       - details: >
