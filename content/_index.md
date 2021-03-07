@@ -104,17 +104,12 @@ sections:
     background: gray
     pricing_plans:
       - title: Business Research and Advocacy
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: >
+          Consulting to FPOs / Community businesses / Cooperatives- Starting a
+          new community business like FPO/FPC/Cooperative from scratch in rural
+          and agribusinesses. Helping the existing businesses/institutions in
+          market linkage, strategy, day to day business activities, tie-ups,
+          etc.
         highlight: false
         actions: []
         type: pricing_plan
