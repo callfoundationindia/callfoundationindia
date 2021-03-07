@@ -16,7 +16,7 @@ params:
         style: link
       - url: /pricing
         style: link
-      - label: Style Guide
+      - label: Join Us
         url: /style-guide
         style: link
       - label: Contact Us
