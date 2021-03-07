@@ -103,8 +103,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - title: Business Research and Advocacy
-        details: >
+      - details: >
           ## Business Research and Advocacy
 
 
