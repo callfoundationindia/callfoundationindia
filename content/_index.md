@@ -116,6 +116,9 @@ sections:
         actions: []
         type: pricing_plan
       - details: >
+          ## Network and Linkages
+
+
           Open to Associate with Food and Agriculture universities (State and
           Central Agricultural Universities), Research institutions (ICAR,CGIAR,
           etc) local agribusiness enterprises, government bodies and departments
