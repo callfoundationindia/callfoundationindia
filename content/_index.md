@@ -125,8 +125,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - price: lorem-ipsum
-        details: >
+      - details: >
           ## Developing Entrepreneurs
 
 
