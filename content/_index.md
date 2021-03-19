@@ -88,6 +88,7 @@ sections:
         type: pricing_plan
     type: section_pricing
     section_id: Our Team
+    title: Our Team
   - section_id: features
     type: section_features
     background: gray
