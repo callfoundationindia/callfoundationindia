@@ -37,13 +37,7 @@ sections:
           through comprehensive action in
 
           life and livelihood.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: What We Do
     title: What we do
     background: gray
