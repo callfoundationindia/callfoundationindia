@@ -1,11 +1,6 @@
 ---
 subtitle: A story about customer loyalty
 author: data/authors/jane-doe.json
-excerpt: >-
-  Consulting to FPOs / Community businesses / Cooperatives- Starting a new
-  community business like FPO/FPC/Cooperative from scratch in rural and
-  agribusinesses. Helping the existing businesses/institutions in market
-  linkage, strategy, day to day business activities, tie-ups, etc.
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
