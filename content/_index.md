@@ -80,6 +80,8 @@ sections:
       - highlight: false
         actions: []
         type: pricing_plan
+        details: |
+          ![](/images/Prashant_Picture.jpg)
     type: section_pricing
     section_id: Our Team
     title: Our Team
