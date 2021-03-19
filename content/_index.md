@@ -138,9 +138,9 @@ sections:
         actions: []
         type: pricing_plan
         details: |
-          ![](/images/Prashant_Picture.jpg)
+          ![](/images/purple-steel.jpg)
 
-          ## Prashant Chawla
+          #### Prashant Chawla
       - details: |
           ![](/images/pleasant-amaranth.jpg)
 
