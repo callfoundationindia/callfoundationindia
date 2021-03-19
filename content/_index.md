@@ -13,13 +13,50 @@ sections:
   - section_id: lorem-ipsum
     title: About Us
     content: >
-      #### Our Mission
+      #### **Our Mission**
 
 
       ##### &#xA;CALL Foundation aims to support the development of community
       businesses, micro-entrepreneurs&#xA;through professional advice and
       solutions and provide means of linkages between businesses,&#xA;research,
       and educational institutes and markets.
+
+
+
+
+      #### **Our Vision**
+
+
+      ##### &#xA;Our vision is to drive the creation of self-sustainable
+      communities through comprehensive action in&#xA;life and livelihood.
+
+
+      #### &#xA;**Our Story**
+
+
+      ##### &#xA;As our name CALL – Comprehensive Action in Life and Livelihood
+      suggests, CALL Foundation is&#xA;dedicated to coming up with professional
+      solutions helpful in tackling the issues and enhancement&#xA;of quality of
+      life and livelihood.
+
+
+      ##### &#xA;Our journey started when the entire world was busy handling the
+      severity of the COVID 19 pandemic&#xA;with a series of phone calls and
+      video calls. While we all were at our native places and had a
+      break&#xA;for some time to notice what all has changed around us while we
+      changed from kids to adults, we&#xA;noticed that some things are still the
+      same. In fact, with the ongoing pandemic, we could notice the&#xA;chaos it
+      had created in the seemingly normal lives otherwise. The entire situation
+      of migration of&#xA;workforce and the lack of jobs in market clubbed with
+      the already prevalent issues of unemployment&#xA;and low levels of
+      development in underprivileged areas shouted for the need of
+      sustainable&#xA;communities. This is where we had our thoughts aligned and
+      had a series of discussions on the&#xA;ongoing issues we were able to
+      observe around us and how we felt we could be an asset in
+      resolving&#xA;them.
+
+
+      ##### &#xA;Thus was born the CALL Foundation.
     image_alt: lorem-ipsum
     background: gray
     actions: []
