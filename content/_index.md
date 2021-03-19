@@ -68,7 +68,7 @@ sections:
   - background: gray
     pricing_plans:
       - details: |
-          ![](/images/harsh%20pic.jpg)
+          ![](/images/splendid-avocado.jpg)
         highlight: false
         actions: []
         type: pricing_plan
