@@ -12,8 +12,7 @@ sections:
         style: primary
     content: |
       Comprehensive Action for Life and Livelihood
-
-  - section_id: features
+  - section_id: About Us
     type: section_features
     background: gray
     title: Features
@@ -151,7 +150,6 @@ sections:
     type: section_pricing
     section_id: Our Team
     title: Our Team
-
   - section_id: reviews
     type: section_reviews
     background: white
