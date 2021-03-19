@@ -28,7 +28,7 @@ sections:
           research, and educational institutes and markets.
         actions: []
         title: Our Mission
-        image: images/1.jpg
+        image: images/12.jpg
       - title: Our Vision
         image: images/10.jpg
         image_alt: App users welcoming a new member
