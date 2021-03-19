@@ -142,9 +142,9 @@ sections:
 
           #### Prashant Chawla
       - details: |
-          ![](/images/pleasant-amaranth.jpg)
+          ![](/images/adorable-sparrow.jpg)
 
-          ## Abhishek Kumar
+          #### Abhishek Kumar
         highlight: false
         actions: []
         type: pricing_plan
