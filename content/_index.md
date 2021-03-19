@@ -90,6 +90,8 @@ sections:
           ## Prashant Chawla
       - details: |
           ![](/images/pleasant-amaranth.jpg)
+
+          ## Abhishek Kumar
         highlight: false
         actions: []
         type: pricing_plan
