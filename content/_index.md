@@ -10,7 +10,7 @@ sections:
       - label: Contact Us
         url: /features
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: What We Do
     title: What we do
     background: gray
     pricing_plans:
