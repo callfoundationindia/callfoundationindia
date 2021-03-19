@@ -10,6 +10,8 @@ sections:
       - label: Contact Us
         url: /features
         style: primary
+    content: |
+      Comprehensive Action for Life and Livelihood
   - section_id: About Us
     title: About Us
     content: >
