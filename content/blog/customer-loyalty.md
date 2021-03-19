@@ -1,7 +1,6 @@
 ---
 subtitle: A story about customer loyalty
 author: data/authors/jane-doe.json
-date: '2021-01-01'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
