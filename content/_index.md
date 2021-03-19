@@ -69,6 +69,8 @@ sections:
     pricing_plans:
       - details: |
           ![](/images/splendid-avocado.jpg)
+
+          ##                     Harsh Pathak
         highlight: false
         actions: []
         type: pricing_plan
