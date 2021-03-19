@@ -17,6 +17,15 @@ params:
       - url: /pricing
         style: link
         label: Our Work
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
       - label: Join Us
         url: /style-guide
         style: link
