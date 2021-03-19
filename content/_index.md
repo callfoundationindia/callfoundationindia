@@ -30,7 +30,7 @@ sections:
         title: Our Mission
         image: images/1.jpg
       - title: Our Vision
-        image: images/feature2.png
+        image: images/10.jpg
         image_alt: App users welcoming a new member
         content: >
           Our vision is to drive the creation of self-sustainable communities
