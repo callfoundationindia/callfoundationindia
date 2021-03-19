@@ -15,7 +15,7 @@ sections:
   - section_id: About Us
     type: section_features
     background: gray
-    title: Features
+    title: About Us
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
