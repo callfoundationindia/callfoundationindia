@@ -10,7 +10,7 @@ sections:
       - label: Contact Us
         url: /features
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: About Us
     title: About Us
     content: >
       #### **Our Mission**
