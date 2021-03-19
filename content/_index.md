@@ -10,7 +10,6 @@ sections:
       - label: Contact Us
         url: /features
         style: primary
-       
   - section_id: lorem-ipsum
     title: What we do
     background: gray
@@ -66,7 +65,12 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-        
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
   - section_id: features
     type: section_features
     background: gray
@@ -152,7 +156,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-
   - section_id: recent-posts
     type: section_posts
     background: gray
