@@ -29,15 +29,6 @@ sections:
         actions: []
         title: Our Mission
         image: images/12.jpg
-      - title: Our Vision
-        image: images/10.jpg
-        image_alt: App users welcoming a new member
-        content: >
-          Our vision is to drive the creation of self-sustainable communities
-          through comprehensive action in
-
-          life and livelihood.
-        actions: []
   - section_id: What We Do
     title: What we do
     background: gray
