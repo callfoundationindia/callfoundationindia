@@ -15,6 +15,7 @@ seo:
 layout: post
 image: images/6.jpg
 thumb_image: images/6.jpg
+author: data/authors/person-k26vfp1qh.json
 ---
 As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL Foundation is
 dedicated to coming up with professional solutions helpful in tackling the issues and enhancement
