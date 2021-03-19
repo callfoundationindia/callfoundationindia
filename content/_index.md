@@ -19,10 +19,14 @@ sections:
     features:
       - image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          CALL Foundation aims to support the development of community
+          businesses, micro-entrepreneurs
+
+          through professional advice and solutions and provide means of
+          linkages between businesses,
+
+          research, and educational institutes and markets.
         actions:
           - label: Learn More
             url: /features
