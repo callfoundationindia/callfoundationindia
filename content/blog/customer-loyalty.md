@@ -52,9 +52,5 @@ excerpt: >-
   the chaos it had created in the seemingly normal lives otherwise. The entire
   situation of migration of workforce and the lack of jobs in market clubbed
   with the already prevalent issues of unemployment and low levels of
-  development in underprivileged areas shouted for the need of sustainable
-  communities. This is where we had our thoughts aligned and had a series of
-  discussions on the ongoing issues we were able to observe around us and how we
-  felt we could be an asset in resolving them. Thus was born the CALL
-  Foundation.
+  development in underprivileged areas shouted for th
 ---
