@@ -73,7 +73,7 @@ sections:
         actions: []
         type: pricing_plan
       - details: |
-          ![](/images/AnuragKashyap_Photo.jpg)
+          ![](/images/violet-zebra.jpg)
         highlight: false
         actions: []
         type: pricing_plan
