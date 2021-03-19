@@ -63,6 +63,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+
   - section_id: What We Do
     title: What we do
     background: gray
