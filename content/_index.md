@@ -12,17 +12,14 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: About Us
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Our Mission
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      #### &#xA;CALL Foundation aims to support the development of community
+      businesses, micro-entrepreneurs&#xA;through professional advice and
+      solutions and provide means of linkages between businesses,&#xA;research,
+      and educational institutes and markets.
     image_alt: lorem-ipsum
     background: gray
     actions: []
