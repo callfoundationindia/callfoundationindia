@@ -18,7 +18,7 @@ params:
         style: link
         label: Our Work
       - label: Our Story
-        url: 'studio/6045275eae06af0018920286#/blog/working-from-home/'
+        url: '#/blog/working-from-home/'
         style: link
         has_icon: false
         icon: arrow-left
