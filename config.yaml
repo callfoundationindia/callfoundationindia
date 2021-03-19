@@ -17,7 +17,7 @@ params:
       - url: /pricing
         style: link
         label: Our Work
-      - label: lorem-ipsum
+      - label: Our Story
         url: '#'
         style: link
         has_icon: false
