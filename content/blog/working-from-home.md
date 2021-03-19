@@ -1,7 +1,7 @@
 ---
 title: Our Story
 author: data/authors/jane-doe.json
-date: '2021-03-01'
+date: '2021-03-18'
 thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
