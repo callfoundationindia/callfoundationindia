@@ -39,7 +39,7 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 layout: post
-title: 'Business Research and Advocacy '
+title: Our Story
 excerpt: >-
   As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL
   Foundation is dedicated to coming up with professional solutions helpful in
