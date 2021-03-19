@@ -69,17 +69,8 @@ sections:
     title: Our Team
     background: gray
     pricing_plans:
-      - details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - details: |
+          ![](/images/harsh%20pic.jpg)
         highlight: false
         actions: []
         type: pricing_plan
