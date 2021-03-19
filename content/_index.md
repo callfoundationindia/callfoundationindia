@@ -130,7 +130,7 @@ sections:
       - details: |
           ![](/images/graceful-squid.jpg)
 
-          ## Anurag Kashyap
+          #### Anurag Kashyap
         highlight: false
         actions: []
         type: pricing_plan
