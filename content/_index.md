@@ -28,7 +28,7 @@ sections:
           research, and educational institutes and markets.
         actions: []
         title: Our Mission
-        image: images/nta.PNG
+        image: images/1.jpg
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
