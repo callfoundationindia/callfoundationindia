@@ -86,6 +86,8 @@ sections:
         type: pricing_plan
         details: |
           ![](/images/Prashant_Picture.jpg)
+
+          ## Prashant Chawla
       - details: |
           ![](/images/pleasant-amaranth.jpg)
         highlight: false
