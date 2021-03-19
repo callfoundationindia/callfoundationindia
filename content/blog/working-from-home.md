@@ -1,8 +1,5 @@
 ---
 title: Our Story
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
 author: data/authors/jane-doe.json
 date: '2021-03-21'
 thumb_image: images/9_thumb.jpg
