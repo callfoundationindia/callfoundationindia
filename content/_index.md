@@ -66,7 +66,7 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Our Team
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
