@@ -4,7 +4,7 @@ excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
 author: data/authors/jane-doe.json
-date: '2020-04-22'
+date: '2020-03-22'
 thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
