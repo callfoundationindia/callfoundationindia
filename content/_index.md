@@ -65,8 +65,7 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-  - title: Our Team
-    background: gray
+  - background: gray
     pricing_plans:
       - details: |
           ![](/images/harsh%20pic.jpg)
