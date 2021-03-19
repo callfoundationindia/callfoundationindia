@@ -33,6 +33,10 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL
+  Foundation is dedicated to coming up with professional solutions helpful in
+  tackling the issues and enhancement of quality of life and livelihood.
 ---
 As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL Foundation is
 dedicated to coming up with professional solutions helpful in tackling the issues and enhancement
