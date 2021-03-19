@@ -76,6 +76,8 @@ sections:
         type: pricing_plan
       - details: |
           ![](/images/violet-zebra.jpg)
+
+          ## Anurag Kashyap
         highlight: false
         actions: []
         type: pricing_plan
