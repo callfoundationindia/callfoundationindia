@@ -17,8 +17,7 @@ sections:
     background: gray
     title: About Us
     features:
-      - image: images/feature1.png
-        image_alt: App preview on a phone and tablet
+      - image_alt: App preview on a phone and tablet
         content: >
           CALL Foundation aims to support the development of community
           businesses, micro-entrepreneurs
