@@ -13,10 +13,10 @@ sections:
   - section_id: lorem-ipsum
     title: About Us
     content: >
-      ## Our Mission
+      #### Our Mission
 
 
-      #### &#xA;CALL Foundation aims to support the development of community
+      ##### &#xA;CALL Foundation aims to support the development of community
       businesses, micro-entrepreneurs&#xA;through professional advice and
       solutions and provide means of linkages between businesses,&#xA;research,
       and educational institutes and markets.
