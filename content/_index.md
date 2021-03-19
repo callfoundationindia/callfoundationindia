@@ -27,13 +27,7 @@ sections:
           linkages between businesses,
 
           research, and educational institutes and markets.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         title: Our Mission
       - title: Awesome Feature of Your Services
         image: images/feature2.png
