@@ -128,7 +128,7 @@ sections:
         actions: []
         type: pricing_plan
       - details: |
-          ![](/images/violet-zebra.jpg)
+          ![](/images/graceful-squid.jpg)
 
           ## Anurag Kashyap
         highlight: false
