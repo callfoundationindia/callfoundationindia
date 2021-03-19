@@ -69,8 +69,7 @@ sections:
     title: Our Team
     background: gray
     pricing_plans:
-      - subtitle: lorem-ipsum
-        details: >-
+      - details: >-
           ## Lorem ipsum
 
 
