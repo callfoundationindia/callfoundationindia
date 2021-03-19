@@ -72,17 +72,8 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - details: |
+          ![](/images/AnuragKashyap_Photo.jpg)
         highlight: false
         actions: []
         type: pricing_plan
