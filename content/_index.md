@@ -121,7 +121,7 @@ sections:
   - background: gray
     pricing_plans:
       - details: |
-          ![](/images/modern-triceratops.jpg)
+          ![](/images/blue-onion.jpg)
 
           ## Harsh Pathak
         highlight: false
