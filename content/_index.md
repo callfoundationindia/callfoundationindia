@@ -123,7 +123,7 @@ sections:
       - details: |
           ![](/images/blue-onion.jpg)
 
-          ## Harsh Pathak
+          #### Harsh Pathak
         highlight: false
         actions: []
         type: pricing_plan
