@@ -82,8 +82,7 @@ sections:
         type: pricing_plan
         details: |
           ![](/images/Prashant_Picture.jpg)
-      - subtitle: lorem-ipsum
-        price: lorem-ipsum
+      - price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
