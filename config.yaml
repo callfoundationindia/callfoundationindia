@@ -12,7 +12,7 @@ params:
         url: /
         style: link
       - label: About Us
-        url: /features
+        url: '#about-us'
         style: link
       - url: /pricing
         style: link
