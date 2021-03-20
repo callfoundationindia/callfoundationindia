@@ -12,7 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-image: images/6.jpg
+image: images/marvelous-daffodil.jpg
 thumb_image: images/plane.jpg
 author: data/authors/person-k26vfp1qh.json
 ---
