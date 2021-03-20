@@ -6,7 +6,7 @@ var videoEmbeds = [
 reframe(videoEmbeds.join(','));
 
 // Mobile menu
-var menuToggle = document.querySelectorAll('.menu-toggle');
+var menuToggle = document.querySelectorAll('.menu-toggle, .menu-item');
 
 for (var i = 0; i < menuToggle.length; i++) {
   menuToggle[i].addEventListener('click', function(e){
