@@ -182,7 +182,7 @@ sections:
         label: Phone number
         default_value: Enter valid phone number(10-digit)
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: lorem-ipsum
     type: section_contact
