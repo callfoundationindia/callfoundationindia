@@ -180,7 +180,7 @@ sections:
       - input_type: number
         name: phone
         label: Phone number
-        default_value: lorem-ipsum
+        default_value: Enter valid phone number(10-digit)
         options: []
         is_required: false
         type: form_field
