@@ -1,5 +1,4 @@
 ---
-title: Our Story
 author: data/authors/jane-doe.json
 date: '2021-03-18'
 thumb_image: images/9_thumb.jpg
