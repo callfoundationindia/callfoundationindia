@@ -1,6 +1,9 @@
 ---
 author: data/authors/jane-doe.json
+date: '2021-03-18'
+thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
+image: images/9.jpg
 image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
@@ -29,6 +32,10 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL
+  Foundation is dedicated to coming up with professional solutions helpful in
+  tackling the issues and enhancement of quality of life and livelihood.
 ---
 As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL Foundation is
 dedicated to coming up with professional solutions helpful in tackling the issues and enhancement
@@ -45,6 +52,3 @@ and low levels of development in underprivileged areas shouted for the need of s
 communities. This is where we had our thoughts aligned and had a series of discussions on the
 ongoing issues we were able to observe around us and how we felt we could be an asset in resolving
 them.
-
-
-Thus was born the CALL Foundation.
