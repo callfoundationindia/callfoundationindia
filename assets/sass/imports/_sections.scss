@@ -259,7 +259,20 @@
 }
 
 #reviews{
-    
+        .grid {
+      grid-template-columns: repeat(2, 1fr);
+      margin-left: 90px;
+      margin-right: 90px;
+  }
+
+  .cell {
+    margin: 0 0 1.66667em;
+    max-width: 450px;
+  }
+
+  .card {
+    height: 100%;
+  }
 }
 
 @media(max-width: 700px){
