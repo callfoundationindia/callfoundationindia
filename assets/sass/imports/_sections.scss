@@ -230,7 +230,7 @@
 #our-team .pricing-block{
     .grid{
         display: grid;
-        grid-template-columns: ;
+        grid-template-columns: repeat(3,1fr);
     }
 }
 
