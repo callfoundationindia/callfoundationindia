@@ -261,7 +261,20 @@
 }
 
 @media only screen and (min-width: 500px){
-    
+    #our-team .pricing-block{
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+  }
+
+  .cell {
+    margin: 0 0 1.66667em;
+  }
+
+  .card {
+    height: 100%;
+  }
+}
 }
 
 // Pricing, reviews blocks
