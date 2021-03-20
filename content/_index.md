@@ -156,7 +156,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
+  - section_id: join-us
     title: Join Us
     content: >-
       ## Lorem ipsum
