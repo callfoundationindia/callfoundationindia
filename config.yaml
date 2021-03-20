@@ -31,6 +31,7 @@ params:
         style: link
       - label: Contact Us
         style: primary
+        url: '#join-us'
   footer:
     sections:
       - type: footer_text
