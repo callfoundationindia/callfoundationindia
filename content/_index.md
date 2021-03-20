@@ -10,7 +10,7 @@ sections:
       - label: Contact Us
         url: '#join-us'
         style: primary
-      - label: lorem-ipsum
+      - label: 'or '
         url: '#'
         style: link
         has_icon: false
