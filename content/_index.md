@@ -178,7 +178,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: number
-        name: lorem-ipsum
+        name: phone
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
