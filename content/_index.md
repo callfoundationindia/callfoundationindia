@@ -159,7 +159,7 @@ sections:
   - section_id: join-us
     title: Join Us
     background: gray
-    form_id: lorem-ipsum
+    form_id: contact-form
     form_action: lorem-ipsum
     hide_labels: false
     form_fields: []
