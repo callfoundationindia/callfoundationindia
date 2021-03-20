@@ -11,7 +11,6 @@ sections:
         url: '#join-us'
         style: primary
       - label: 'or Email us at '
-        url: 'mailto: '
         style: link
         has_icon: false
         icon: arrow-left
