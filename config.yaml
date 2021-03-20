@@ -14,7 +14,7 @@ params:
       - label: About Us
         url: '#about-us'
         style: link
-      - url: '#'
+      - url: '#what-we-do'
         style: link
         label: Our Work
       - label: Our Story
