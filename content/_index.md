@@ -10,7 +10,7 @@ sections:
       - label: Contact Us
         url: '#join-us'
         style: primary
-      - label: or Email us at
+      - label: or Email us at c
         url: '#'
         style: link
         has_icon: false
