@@ -32,7 +32,7 @@ params:
       - label: Contact Us
         style: primary
         url: '#join-us'
-footer:
+  footer:
     sections:
       - type: footer_text
         image: images/callfoundation.png
