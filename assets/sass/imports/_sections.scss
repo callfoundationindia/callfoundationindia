@@ -244,8 +244,8 @@
 
 #what-we-do{
     .grid {
-      -ms-flex-pack: center;
-        justify-content: center;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
   }
 
   .cell {
