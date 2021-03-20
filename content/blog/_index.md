@@ -1,5 +1,4 @@
 ---
-title: A
 seo:
   title: Blog
   description: This is the blog page
