@@ -10,8 +10,7 @@ sections:
       - label: Contact Us
         url: '#join-us'
         style: primary
-      - label: or Email us at contact@callfoundation.co.in
-        style: link
+      - style: link
         has_icon: false
         icon: arrow-left
         icon_position: left
