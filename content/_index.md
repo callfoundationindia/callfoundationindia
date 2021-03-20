@@ -164,7 +164,7 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: text
-        name: Name
+        name: name
         label: Name
         default_value: lorem-ipsum
         options: []
