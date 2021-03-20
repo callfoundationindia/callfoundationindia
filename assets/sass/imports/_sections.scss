@@ -260,7 +260,8 @@
 
 .reviews-block{
     .grid{
-        grid-template-columns: repeat(3, 1fr);
+        // -ms-flex-pack: center;
+    // justify-content: center;
     }
 }
 
