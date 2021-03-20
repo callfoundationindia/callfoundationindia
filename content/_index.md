@@ -173,6 +173,7 @@ sections:
         type: form_field
     submit_label: Submit
     type: section_contact
+    subtitle: 'You can either email us at contact@callfoundation.co.in or '
 seo:
   title: Call Foundation
   extra:
