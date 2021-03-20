@@ -11,7 +11,6 @@ var menuToggle = document.querySelectorAll('.menu-toggle, #main-navigation .menu
 for (var i = 0; i < menuToggle.length; i++) {
   menuToggle[i].addEventListener('click', function(e){
     document.body.classList.toggle('menu--opened');
-    e.preventDefault();
   },false);
 }
 
