@@ -158,7 +158,6 @@ sections:
     title: Latest Posts
   - section_id: lorem-ipsum
     title: Join Us
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
