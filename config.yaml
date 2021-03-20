@@ -37,7 +37,6 @@ params:
         image: images/callfoundation.png
         image_url: /
         image_alt: Footer logo
-        content: Stackbit theme demo
       - type: footer_nav
         title: Company
         nav_links:
