@@ -30,7 +30,7 @@ params:
         url: '#join-us'
         style: link
       - label: Contact Us
-        url: /signup
+        url: 'mailto: contact@himachal.com'
         style: primary
   footer:
     sections:
