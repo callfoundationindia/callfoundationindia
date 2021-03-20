@@ -149,8 +149,7 @@ sections:
     title: Be a part now!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
-        url: /signup
+      - url: /signup
         style: primary
   - section_id: recent-posts
     type: section_posts
