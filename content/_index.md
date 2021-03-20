@@ -115,7 +115,7 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-    section_id: Our Team
+    section_id: our-team
     title: Our Team
   - section_id: reviews
     type: section_reviews
