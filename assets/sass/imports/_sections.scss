@@ -260,7 +260,7 @@
 
 .reviews-block{
     .grid{
-        grid-tem
+        grid-template-columns: repeat(3,1fr);
     }
 }
 
