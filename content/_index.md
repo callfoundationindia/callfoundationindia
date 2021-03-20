@@ -8,7 +8,7 @@ sections:
     title: Call Foundation
     actions:
       - label: Contact Us
-        url: mailto: callfoundationindia@gmail.com
+        url: #
         style: primary
     content: |
       Comprehensive Action for Life and Livelihood
