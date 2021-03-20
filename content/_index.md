@@ -175,7 +175,6 @@ sections:
     type: section_contact
 seo:
   title: Call Foundation
-  description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
       value: website
