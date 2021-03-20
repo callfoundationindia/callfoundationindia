@@ -198,6 +198,6 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
-  description: 'Comprehensive '
+  description: Comprehensive Action for Life and Livelihood
 layout: landing
 ---
