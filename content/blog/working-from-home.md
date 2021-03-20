@@ -1,6 +1,5 @@
 ---
 author: data/authors/jane-doe.json
-thumb_image: images/9_thumb.jpg
 thumb_image_alt: People in a conference room
 image_alt: People in a conference room
 seo:
