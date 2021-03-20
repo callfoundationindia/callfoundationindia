@@ -84,6 +84,14 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
+  - section_id: call-to-action
+    type: section_cta
+    title: Be a part of our work!
+    actions:
+      - url: '#join-us'
+        style: primary
+        label: Join Us
+    subtitle: 'Volunteer, Be a mentor or Donate'
   - background: gray
     pricing_plans:
       - details: |
@@ -117,14 +125,6 @@ sections:
     type: section_pricing
     section_id: our-team
     title: Our Team
-  - section_id: call-to-action
-    type: section_cta
-    title: Be a part of our work!
-    actions:
-      - url: '#join-us'
-        style: primary
-        label: Join Us
-    subtitle: 'Volunteer, Be a mentor or Donate'
   - section_id: recent-posts
     type: section_posts
     background: gray
