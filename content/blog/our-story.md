@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: images/6.jpg
-thumb_image: images/6.jpg
+thumb_image: images/plane.jpg
 author: data/authors/person-k26vfp1qh.json
 ---
 As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL Foundation is
