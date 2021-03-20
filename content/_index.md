@@ -174,7 +174,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: Stackbit Azimuth Theme
+  title: callfoundation
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
