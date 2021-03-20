@@ -174,7 +174,7 @@ sections:
     submit_label: Submit
     type: section_contact
 seo:
-  title: callfoundation
+  title: Call Foundation
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
