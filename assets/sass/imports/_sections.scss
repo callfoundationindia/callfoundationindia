@@ -243,6 +243,24 @@
   }
 }
 
+#what-we-do{
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+    // -ms-flex-pack: center;
+    // justify-content: center;
+  }
+
+  .cell {
+    margin: 0 0 1.66667em;
+    max-width: 450px;
+  }
+
+  .card {
+    height: 100%;
+  }
+}
+
 // Pricing, reviews blocks
 .pricing-block,
 .reviews-block {
