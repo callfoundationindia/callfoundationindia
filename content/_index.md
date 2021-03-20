@@ -8,7 +8,7 @@ sections:
     title: Call Foundation
     actions:
       - label: Contact Us
-        url: 
+        url: mailto: contact@himachal.com
         style: primary
     content: |
       Comprehensive Action for Life and Livelihood
