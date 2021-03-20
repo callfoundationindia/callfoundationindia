@@ -12,7 +12,7 @@ sections:
         style: primary
     content: |
       Comprehensive Action for Life and Livelihood
-  - section_id: About Us
+  - section_id: about-us
     type: section_features
     background: gray
     title: About Us
