@@ -35,7 +35,7 @@ sections:
           research, and educational institutes and markets.
         actions: []
         title: Our Mission
-        image: images/12.jpg
+        image: images/our vision.jpg
   - section_id: what-we-do
     title: What we do
     background: gray
