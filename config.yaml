@@ -91,9 +91,6 @@ params:
       - label: Terms of Service
         url: /terms-of-service
         style: link
-      - label: Privacy Policy
-        url: /privacy-policy
-        style: link
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created with
       <a href="https://www.stackbit.com/?utm_source=deployed-footer"
