@@ -151,7 +151,7 @@ sections:
       - url: '#join-us'
         style: primary
         label: Join Us
-    subtitle: Volunteer
+    subtitle: 'Volunteer, '
   - section_id: recent-posts
     type: section_posts
     background: gray
