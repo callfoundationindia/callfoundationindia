@@ -175,7 +175,7 @@ sections:
     type: section_contact
     subtitle: >-
       You can either email us at contact@callfoundation.co.in or fill this form
-      and we'll get in touch with you
+      and we'll get in touch with you.
 seo:
   title: Call Foundation
   extra:
