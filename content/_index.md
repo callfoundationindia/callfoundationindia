@@ -146,7 +146,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: Be a part now!
+    title: Be a part of our work!
     actions:
       - url: '#join-us'
         style: primary
