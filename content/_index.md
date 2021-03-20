@@ -12,7 +12,7 @@ sections:
         style: primary
       - label: or Email us at
         url: '#'
-        style: secondary
+        style: link
         has_icon: false
         icon: arrow-left
         icon_position: left
