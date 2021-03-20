@@ -166,7 +166,7 @@ sections:
       - input_type: text
         name: name
         label: Name
-        default_value: 'Enter your '
+        default_value: Enter your name
         options: []
         is_required: false
         type: form_field
