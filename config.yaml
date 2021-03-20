@@ -27,7 +27,7 @@ params:
         no_follow: false
         type: action
       - label: Join Us
-        url: /join-us
+        url: '#join-us'
         style: link
       - label: Contact Us
         url: /signup
