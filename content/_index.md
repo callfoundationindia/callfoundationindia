@@ -174,8 +174,7 @@ sections:
         name: email
         label: Email
         default_value: Enter valid email id
-        options:
-          - lorem-ipsum
+        options: []
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
