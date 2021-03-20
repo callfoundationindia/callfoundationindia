@@ -179,7 +179,7 @@ sections:
         type: form_field
       - input_type: number
         name: phone
-        label: lorem-ipsum
+        label: Phone number
         default_value: lorem-ipsum
         options: []
         is_required: false
