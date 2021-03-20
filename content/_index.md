@@ -147,7 +147,6 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Be a part now!
-    subtitle: This is an optional description for the call to action block.
     actions:
       - url: '#join-us'
         style: primary
