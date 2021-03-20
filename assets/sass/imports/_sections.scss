@@ -261,7 +261,7 @@
 .reviews-block{
     .grid{
         display: grid;
-        grid-templ
+        grid-template-columns: repeat(3, 1fr);
     }
 
     .cell {
