@@ -29,7 +29,7 @@ sections:
         actions: []
         title: Our Mission
         image: images/12.jpg
-  - section_id: What We Do
+  - section_id: what-we-do
     title: What we do
     background: gray
     pricing_plans:
