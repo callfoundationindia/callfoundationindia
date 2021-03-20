@@ -1,6 +1,5 @@
 ---
 title: Our story
-subtitle: lorem-ipsum
 date: '2021-03-19'
 excerpt: >-
   As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL
