@@ -10,6 +10,15 @@ sections:
       - label: Contact Us
         url: '#join-us'
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     content: |
       Comprehensive Action for Life and Livelihood
   - section_id: about-us
