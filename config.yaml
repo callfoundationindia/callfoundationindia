@@ -30,7 +30,6 @@ params:
         url: '#join-us'
         style: link
       - label: Contact Us
-        url: callfoundationindia@gmail.com
         style: primary
   footer:
     sections:
