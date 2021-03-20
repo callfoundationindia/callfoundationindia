@@ -151,6 +151,7 @@ sections:
     actions:
       - url: /signup
         style: primary
+        label: Join Us
   - section_id: recent-posts
     type: section_posts
     background: gray
