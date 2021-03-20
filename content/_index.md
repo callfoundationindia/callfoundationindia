@@ -177,7 +177,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: number
+      - input_type: tel
         name: phone
         label: Phone number
         default_value: Enter valid phone number(10-digit)
