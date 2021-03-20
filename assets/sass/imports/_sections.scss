@@ -228,7 +228,10 @@
 }
 
 #our-team .pricing-block{
-    .grid
+    .grid{
+        display: grid;
+        grid
+    }
 }
 
 // Pricing, reviews blocks
