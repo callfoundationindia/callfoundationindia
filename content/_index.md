@@ -158,17 +158,6 @@ sections:
     title: Latest Posts
   - section_id: join-us
     title: Join Us
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
