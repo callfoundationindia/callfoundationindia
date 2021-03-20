@@ -1,6 +1,7 @@
 title: callfoundation
 baseURL: /
 params:
+  title: callfoundation
   base_font: nunito-sans
   palette: blue
   header:
