@@ -75,10 +75,7 @@ params:
             icon: github
             icon_position: left
     has_nav: true
-    nav_links:
-      - label: Privacy Policy
-        url: /privacy-policy
-        style: link
+    nav_links: []
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created with
       <a href="https://www.stackbit.com/?utm_source=deployed-footer"
