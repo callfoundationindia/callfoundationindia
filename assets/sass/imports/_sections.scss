@@ -293,7 +293,9 @@
             grid-template-columns: repeat(1, 1fr);
         }
 
-        
+        .card {
+    height: 100%;
+  }
     }
     }
 }
