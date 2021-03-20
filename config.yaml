@@ -9,7 +9,7 @@ params:
     has_nav: true
     nav_links:
       - label: Home
-        url: /
+        url: '#'
         style: link
       - label: About Us
         url: '#about-us'
