@@ -11,7 +11,7 @@ sections:
         url: '#join-us'
         style: primary
       - label: 'or Email us at '
-        url: '#'
+        url: contact@callfoundation.co.in
         style: link
         has_icon: false
         icon: arrow-left
