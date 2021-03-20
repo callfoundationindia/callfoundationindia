@@ -32,7 +32,7 @@ sections:
   - section_id: What We Do
     title: What we do
     background: gray
-    pricing-plans:
+    pricing_plans:
       - details: >
           ## Business Research and Advocacy
 
