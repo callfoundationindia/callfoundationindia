@@ -63,6 +63,15 @@ params:
           - label: Join Us
             url: '#join-us'
             style: link
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
       - type: footer_nav
         title: Community
         nav_links:
