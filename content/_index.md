@@ -140,7 +140,7 @@ sections:
         actions: []
         type: pricing_plan
         details: |
-          ![](/images/purple-steel.jpg)
+          ![](/images/parallel-tulip.jpg)
 
           #### Prashant Chawla
     type: section_pricing
