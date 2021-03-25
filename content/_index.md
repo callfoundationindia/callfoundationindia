@@ -130,7 +130,7 @@ sections:
         actions: []
         type: pricing_plan
       - details: |
-          ![](/images/Nikhil%20Chaddha.jpg)
+          ![](/images/futuristic-onion.jpg)
 
           #### Nikhil Chaddha
         highlight: false
