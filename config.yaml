@@ -85,7 +85,7 @@ params:
             url: 'https://www.linkedin.com/'
             style: link
             has_icon: true
-            icon: linkedin
+            icon: instagram
             icon_position: left
           - label: GitHub
             url: 'https://github.com/'
