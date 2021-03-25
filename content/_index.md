@@ -108,6 +108,13 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
+      - details: |
+          ![](/images/magnificent-aspen.jpg)
+
+          #### Anurag Kashyap
+        highlight: false
+        actions: []
+        type: pricing_plan
       - highlight: false
         actions: []
         type: pricing_plan
@@ -119,13 +126,6 @@ sections:
           ![](/images/blue-onion.jpg)
 
           #### Harsh Pathak
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - details: |
-          ![](/images/magnificent-aspen.jpg)
-
-          #### Anurag Kashyap
         highlight: false
         actions: []
         type: pricing_plan
