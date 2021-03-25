@@ -116,7 +116,7 @@ sections:
         actions: []
         type: pricing_plan
       - details: |
-          ![](/images/blue-onion.jpg)
+          ![](/images/blue-anemone.jpg)
 
           #### Harsh Pathak
         highlight: false
