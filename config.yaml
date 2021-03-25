@@ -51,7 +51,7 @@ params:
           - label: Our Story
             url: /blog/our-story/
             style: link
-          - label: Contact
+          - label: Join Us
             url: /contact
             style: link
       - type: footer_nav
