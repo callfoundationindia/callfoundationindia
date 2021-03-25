@@ -43,7 +43,7 @@ params:
         title: Company
         nav_links:
           - label: About Us
-            url: /about-us
+            url: '#about-us'
             style: link
           - label: Blog
             url: /blog
