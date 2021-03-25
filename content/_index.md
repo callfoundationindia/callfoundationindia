@@ -109,7 +109,7 @@ sections:
         actions: []
         type: pricing_plan
       - details: |
-          ![](/images/thoughtful-panda.jpg)
+          ![](/images/graceful-saturn.jpg)
 
           #### Anurag Kashyap
         highlight: false
