@@ -136,17 +136,10 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - details: >-
-          ## Lorem ipsum
+      - details: |
+          ![](/images/Nikhil%20Chaddha.jpg)
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          #### Nikhil Chaddha
         highlight: false
         actions: []
         type: pricing_plan
