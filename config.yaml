@@ -48,7 +48,7 @@ params:
           - label: Our Work
             url: '#what-we-do'
             style: link
-          - label: Sign Up
+          - label: Our Story
             url: /signup
             style: link
           - label: Contact
