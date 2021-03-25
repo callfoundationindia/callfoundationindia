@@ -42,7 +42,7 @@ params:
       - type: footer_nav
         title: Company
         nav_links:
-          - label: lorem-ipsum
+          - label: Homw
             url: '#'
             style: link
             has_icon: false
