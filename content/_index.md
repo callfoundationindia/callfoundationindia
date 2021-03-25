@@ -123,7 +123,7 @@ sections:
 
           #### Prashant Chawla
       - details: |
-          ![](/images/adorable-sparrow.jpg)
+          ![](/images/thoughtful-petunia.jpg)
 
           #### Abhishek Kumar
         highlight: false
