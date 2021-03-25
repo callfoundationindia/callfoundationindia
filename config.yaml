@@ -87,8 +87,7 @@ params:
             has_icon: true
             icon: instagram
             icon_position: left
-          - label: GitHub
-            url: 'https://github.com/'
+          - url: 'https://github.com/'
             style: link
             has_icon: true
             icon: github
