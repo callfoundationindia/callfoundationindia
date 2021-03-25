@@ -101,6 +101,13 @@ sections:
     subtitle: 'Volunteer, Be a mentor or Donate'
   - background: gray
     pricing_plans:
+      - details: |
+          ![](/images/thoughtful-petunia.jpg)
+
+          #### Abhishek Kumar
+        highlight: false
+        actions: []
+        type: pricing_plan
       - highlight: false
         actions: []
         type: pricing_plan
@@ -119,13 +126,6 @@ sections:
           ![](/images/magnificent-aspen.jpg)
 
           #### Anurag Kashyap
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - details: |
-          ![](/images/thoughtful-petunia.jpg)
-
-          #### Abhishek Kumar
         highlight: false
         actions: []
         type: pricing_plan
