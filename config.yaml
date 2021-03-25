@@ -58,7 +58,7 @@ params:
             url: '#what-we-do'
             style: link
           - label: Our team
-            url: '#'
+            url: '#our-team'
             style: link
             has_icon: false
             icon: arrow-left
