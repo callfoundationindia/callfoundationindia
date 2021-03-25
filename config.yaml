@@ -57,7 +57,7 @@ params:
           - label: Our Work
             url: '#what-we-do'
             style: link
-          - label: lorem-ipsum
+          - label: Our team
             url: '#'
             style: link
             has_icon: false
