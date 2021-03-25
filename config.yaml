@@ -46,7 +46,7 @@ params:
             url: '#about-us'
             style: link
           - label: Our Work
-            url: '#whayt'
+            url: '#what-we-do'
             style: link
           - label: Sign Up
             url: /signup
