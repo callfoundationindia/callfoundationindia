@@ -52,7 +52,7 @@ params:
             url: /blog/our-story/
             style: link
           - label: Join Us
-            url: /contact
+            url: '@'
             style: link
       - type: footer_nav
         title: Community
