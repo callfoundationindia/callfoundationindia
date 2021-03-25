@@ -49,7 +49,7 @@ params:
             url: '#what-we-do'
             style: link
           - label: Our Story
-            url: /signup
+            url: /blog/our-story/
             style: link
           - label: Contact
             url: /contact
