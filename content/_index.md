@@ -132,7 +132,7 @@ sections:
       - details: |
           ![](/images/Mahak%20Tiwari.jpg)
 
-          ## **Mahak Tiwari**
+          #### **Mahak Tiwari**
         highlight: false
         actions: []
         type: pricing_plan
