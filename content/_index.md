@@ -130,11 +130,11 @@ sections:
         actions: []
         type: pricing_plan
       - details: |
+          ####
 
+          ![](/images/incredible-basil.jpg)
 
-          #### ![](/images/amazing-mustard.jpg)
-
-          **Mahak Tiwari**
+          #### **Mahak Tiwari**
         highlight: false
         actions: []
         type: pricing_plan
