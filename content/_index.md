@@ -125,7 +125,7 @@ sections:
       - details: |
           #### ![](/images/beige-amaranth.jpg)
 
-          #### **Mahak Tiwari**
+          #### Mahak Tiwari
         highlight: false
         actions: []
         type: pricing_plan
