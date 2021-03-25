@@ -80,6 +80,7 @@ params:
             has_icon: true
             icon: twitter
             icon_position: left
+            url: 'https://twitter.com/CallFoundation'
           - label: Instagram
             url: 'https://www.linkedin.com/'
             style: link
