@@ -43,7 +43,7 @@ params:
         title: Company
         nav_links:
           - label: Home
-            url: '#'
+            url: '#home'
             style: link
             has_icon: false
             icon: arrow-left
