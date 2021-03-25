@@ -101,6 +101,13 @@ sections:
     subtitle: 'Volunteer, Be a mentor or Donate'
   - background: gray
     pricing_plans:
+      - highlight: false
+        actions: []
+        type: pricing_plan
+        details: |
+          ![](/images/purple-steel.jpg)
+
+          #### Prashant Chawla
       - details: |
           ![](/images/blue-onion.jpg)
 
@@ -115,13 +122,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - highlight: false
-        actions: []
-        type: pricing_plan
-        details: |
-          ![](/images/purple-steel.jpg)
-
-          #### Prashant Chawla
       - details: |
           ![](/images/thoughtful-petunia.jpg)
 
