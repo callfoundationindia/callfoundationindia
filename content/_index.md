@@ -129,13 +129,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - highlight: false
-        actions: []
-        type: pricing_plan
-        details: |
-          ![](/images/purple-steel.jpg)
-
-          #### Prashant Chawla
       - details: |
           ![](/images/Nikhil%20Chaddha.jpg)
 
@@ -143,6 +136,13 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
+      - highlight: false
+        actions: []
+        type: pricing_plan
+        details: |
+          ![](/images/purple-steel.jpg)
+
+          #### Prashant Chawla
     type: section_pricing
     section_id: our-team
     title: Our Team
