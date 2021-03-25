@@ -115,13 +115,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - highlight: false
-        actions: []
-        type: pricing_plan
-        details: |
-          ![](/images/purple-steel.jpg)
-
-          #### Prashant Chawla
       - details: |
           ![](/images/blue-onion.jpg)
 
@@ -129,6 +122,13 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
+      - highlight: false
+        actions: []
+        type: pricing_plan
+        details: |
+          ![](/images/purple-steel.jpg)
+
+          #### Prashant Chawla
       - details: |
           #### ![](/images/beige-amaranth.jpg)
 
