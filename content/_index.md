@@ -130,7 +130,7 @@ sections:
         actions: []
         type: pricing_plan
       - details: |
-          #### ![](/images/maroon-zebra.jpg)
+          #### ![](/images/beige-amaranth.jpg)
 
           #### **Mahak Tiwari**
         highlight: false
