@@ -45,7 +45,7 @@ params:
           - label: About Us
             url: '#about-us'
             style: link
-          - label: Blog
+          - label: Our Work
             url: /blog
             style: link
           - label: Sign Up
