@@ -57,7 +57,7 @@ sections:
 
           <!---->
 
-          *   Transparent in working process & communication,
+          *   Transparent in working process & communication
 
           <!---->
 
