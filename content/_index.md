@@ -51,6 +51,8 @@ sections:
 
           *   Act as a change agent with positivity & confidence
 
+          <!---->
+
           *   Systematic & strategic approach towards opportunities
 
           <!---->
