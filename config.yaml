@@ -36,7 +36,7 @@ params:
   footer:
     sections:
       - type: footer_text
-        image: images/clever-goose.jpeg
+        image: images/splendid-dolphin.jpeg
         image_url: /
         image_alt: Footer logo
       - type: footer_nav
