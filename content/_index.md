@@ -26,13 +26,8 @@ sections:
     features:
       - image_alt: App preview on a phone and tablet
         content: >
-          CALL Foundation aims to support the development of community
-          businesses, micro-entrepreneurs
-
-          through professional advice and solutions and provide means of
-          linkages between businesses,
-
-          research, and educational institutes and markets.
+          The fundamental purpose of the CALL Foundation is to generate
+          livelihood opportunities and improve the quality of life in India.
         actions: []
         title: Our Mission
         image: images/our vision.jpg
