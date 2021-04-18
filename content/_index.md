@@ -33,25 +33,25 @@ sections:
         image: images/our vision.jpg
       - title: Our Values
         content: |
-          *   Entrepreneurial mindset
+          Entrepreneurial mindset
 
-          *   Trust
+          Trust
 
-          *   Professional Action
+          Professional Action
 
-          *   Transparency
+          Transparency
 
-          *   Optimism
+          Optimism
 
-          *   Identify new opportunities and provide innovative solutions
+          Identify new opportunities and provide innovative solutions
 
-          *   Systematic & strategic approach towards opportunities
+          Systematic & strategic approach towards opportunities
 
-          *   Become a reliable & committed partner of the ecosystem
+          Become a reliable & committed partner of the ecosystem
 
-          *   Transparent in working process & communication,
+          Transparent in working process & communication,
 
-          *   Act as a change agent with positivity & confidence
+          Act as a change agent with positivity & confidence
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
