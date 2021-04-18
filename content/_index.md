@@ -57,16 +57,13 @@ sections:
 
           <!---->
 
-          *   Identify new opportunities and provide innovative solutions
-
-          <!---->
-
-          
-
           *   Become a reliable & committed partner of the ecosystem
 
           <!---->
 
+          *   Identify new opportunities and provide innovative solutions
+
+          <!---->
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
