@@ -252,17 +252,3 @@
   }
 }
 
-  @supports (position: sticky) or (position: -webkit-sticky) {
-    .site-header {
-      background: #fff;
-      position: -webkit-sticky;
-      position: sticky;
-      top:0;
-      z-index: 999;
-
-      .has--scrolled & {
-        box-shadow: $box-shadow-sm;
-      }
-    }
-  }
-}
