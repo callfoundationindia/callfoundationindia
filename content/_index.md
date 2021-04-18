@@ -143,17 +143,10 @@ sections:
           ![](/images/parallel-tulip.jpg)
 
           #### Prashant Chawla
-      - details: >-
-          ## Lorem ipsum
+      - details: |
+          ![](/images/WhatsApp%20Image%202021-04-18%20at%203.10.23%20PM.jpeg)
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          #### Shikha Kumari
         highlight: false
         actions: []
         type: pricing_plan
