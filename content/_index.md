@@ -37,7 +37,7 @@ sections:
 
           *   Identify new opportunities and provide innovative solutions
 
-          *   Professional Action
+          
 
           *   Systematic & strategic approach towards opportunities
 
