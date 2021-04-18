@@ -37,8 +37,6 @@ sections:
 
           *   Identify new opportunities and provide innovative solutions
 
-          
-
           *   Systematic & strategic approach towards opportunities
 
           *   Trust
