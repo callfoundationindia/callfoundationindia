@@ -92,9 +92,9 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         
-
         p{
             background: yellow;
+            margin-right: 10px;
         }
     }
 }
