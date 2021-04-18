@@ -41,6 +41,10 @@ sections:
 
           Professional Action
 
+          *   Systematic & strategic approach towards opportunities
+
+          <!---->
+
           *   Entrepreneurial mindset
 
           <!---->
@@ -49,9 +53,7 @@ sections:
 
           <!---->
 
-          *   Systematic & strategic approach towards opportunities
-
-          <!---->
+          
 
           *   Become a reliable & committed partner of the ecosystem
 
