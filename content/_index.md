@@ -35,6 +35,8 @@ sections:
         content: |
           *   Entrepreneurial mindset
 
+          *   Trust
+
           *   Professional Action
 
           *   Identify new opportunities and provide innovative solutions
