@@ -143,8 +143,7 @@ sections:
           ![](/images/parallel-tulip.jpg)
 
           #### Prashant Chawla
-      - subtitle: lorem-ipsum
-        price: lorem-ipsum
+      - price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
