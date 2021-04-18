@@ -89,9 +89,8 @@
     }
 
     .block-copy{
-        p{
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
+      display: grid;
+    grid-template-columns: repeat(2, 1fr);
             border: solid 1px #333;
             padding: 10px;
             margin-right: 20px;
