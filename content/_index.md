@@ -35,6 +35,8 @@ sections:
         content: |
           *   Entrepreneurial mindset
 
+          *   Professional Action
+
           *   Identify new opportunities and provide innovative solutions
 
           *   Systematic & strategic approach towards opportunities
