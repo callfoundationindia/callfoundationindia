@@ -55,6 +55,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/4.jpg
   - section_id: what-we-do
     title: What we do
     background: gray
