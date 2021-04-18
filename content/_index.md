@@ -45,8 +45,6 @@ sections:
 
           *   Become a reliable & committed partner of the ecosystem
 
-          *   Transparency
-
           *   Transparent in working process & communication,
 
           *   Optimism
