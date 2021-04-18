@@ -34,7 +34,7 @@ Array.from(faqAccordions).forEach((faqAccordion) => {
 window.onscroll = function() {myFunction()};
 
 // Get the header
-var header = document.getElementById("myHeader");
+var header = document.getElementById("masthead");
 
 // Get the offset position of the navbar
 var sticky = header.offsetTop;
