@@ -33,7 +33,6 @@ sections:
         image: images/our vision.jpg
       - title: Our Values
         content: |
-          Entrepreneurial mindset
 
           Trust
 
@@ -42,6 +41,8 @@ sections:
           Transparency
 
           Optimism
+
+          Entrepreneurial mindset
 
           Identify new opportunities and provide innovative solutions
 
