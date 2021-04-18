@@ -41,8 +41,6 @@ sections:
 
           *   Systematic & strategic approach towards opportunities
 
-          *   Trust
-
           *   Become a reliable & committed partner of the ecosystem
 
           *   Transparency
