@@ -62,8 +62,6 @@ sections:
           <!---->
 
           *   Identify new opportunities and provide innovative solutions
-
-          <!---->
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
