@@ -36,7 +36,7 @@ sections:
 
           Trust
 
-          
+          Optimism
 
           Transparency
 
