@@ -107,7 +107,9 @@
 }
 
 @media only screen and (max-width: 800px) {
-    
+    #masthead{
+        position: fixed;
+    }
 
   .site {
     overflow: hidden;
