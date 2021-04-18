@@ -106,7 +106,7 @@
   }
 }
 
-@supports (position: sticky) or (position: -webkit-sticky) and @media only screen and (max-width: 800px) {
+@supports (position: sticky) or (position: -webkit-sticky), @media only screen and (max-width: 800px) {
   .site {
     overflow: hidden;
     position: relative;
