@@ -99,6 +99,7 @@
         }
 
         ul{
+            list-style: none;
             display: grid;
             grid-template-columns: repeat(1, 1fr);
             border: solid 1px #333;
