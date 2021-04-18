@@ -31,7 +31,7 @@ sections:
         actions: []
         title: Our Mission
         image: images/our vision.jpg
-      - title: lorem-ipsum
+      - title: Our Values
         content: >-
           ## Lorem ipsum
 
