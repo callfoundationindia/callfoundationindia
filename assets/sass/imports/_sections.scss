@@ -112,33 +112,6 @@
 }
 }
 
-@media(max-width: 400px){
-    #about-us{
-    .block-preview{
-        img{
-            width: 100%;
-        }
-    }
-
-    .block-content{
-        text-align: center;
-        padding-left: 0;
-
-        ol{
-            display: grid;
-            grid-column: 1 / span 2;
-            list-style: none;
-            margin-left: 20px;
-            background: #fff;
-            border: 1px solid #ebecf0;
-            border-radius: 3px;
-            box-shadow: 0 3px 10px 0 rgba(76, 82, 103, 0.1);
-            box-sizing: border-box;
-            padding: 10px;
-            margin-right: 20px;
-        }
-    }
-
     .block-copy{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
