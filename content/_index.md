@@ -49,8 +49,6 @@ sections:
 
           *   Transparent in working process & communication,
 
-          *   Optimism
-
           *   Act as a change agent with positivity & confidence
         image_alt: lorem-ipsum
         actions: []
