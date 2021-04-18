@@ -40,8 +40,6 @@ sections:
 
           Transparency
 
-          Optimism
-
           Professional Action
 
           Entrepreneurial mindset
