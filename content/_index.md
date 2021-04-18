@@ -41,11 +41,11 @@ sections:
 
           Professional Action
 
-          *   Systematic & strategic approach towards opportunities
+          *   Entrepreneurial mindset
 
           <!---->
 
-          *   Entrepreneurial mindset
+          *   Systematic & strategic approach towards opportunities
 
           <!---->
 
