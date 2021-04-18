@@ -36,11 +36,13 @@ sections:
 
           Trust
 
-          Professional Action
+          
 
           Transparency
 
           Optimism
+
+          Professional Action
 
           Entrepreneurial mindset
 
