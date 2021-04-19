@@ -33,10 +33,10 @@ sections:
         image: images/our vision.jpg
       - title: Our Values
         content: >
-          *   Entrepreneurial mindset : 
+          *   Entrepreneurial mindset :
 
 
-          **Identify new opportunities and provide innovative solutions.**
+          1.  **Identify new opportunities and provide innovative solutions.**
 
 
           <!---->
