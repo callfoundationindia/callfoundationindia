@@ -22,8 +22,8 @@
     .block-copy{
         ul{
             display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        width: 110%;
+            grid-template-columns: repeat(2, 1fr);
+            width: 110%;
             text-align: center;
             list-style: none;
             grid-column: 1 / span 2;
