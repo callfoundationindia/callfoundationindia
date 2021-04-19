@@ -65,6 +65,7 @@
         margin: 20px;
 
         ul > li{
+            display: flex;
             list-style: none;
             grid-column: 1 / span 2;
             background: #fff;
