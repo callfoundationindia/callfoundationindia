@@ -388,8 +388,7 @@
 // Pricing, reviews blocks
 .pricing-block{
   .grid {
-      display: flex;
-      align-items: center;
+      display: grid;
     // -ms-flex-pack: center;
     // justify-content: center;
   }
