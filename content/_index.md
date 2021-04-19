@@ -33,11 +33,14 @@ sections:
         image: images/our vision.jpg
       - title: Our Values
         content: >
-          Entrepreneurial mindset : **Identify new opportunities and provide
+          *   Entrepreneurial mindset : **Identify new opportunities and provide
           innovative solutions.**
 
 
-          Professional Action : **Systematic & strategic approach towards
+          <!---->
+
+
+          *   Professional Action : **Systematic & strategic approach towards
           opportunities**
         image_alt: lorem-ipsum
         actions: []
