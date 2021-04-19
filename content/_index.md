@@ -38,14 +38,26 @@ sections:
           innovative solutions**
 
 
+          <!---->
+
+
           *   Professional Action : **Systematic & strategic approach towards
           opportunities**
+
+
+          <!---->
 
 
           *   Trust : **Become a reliable & committed partner of the ecosystem**
 
 
+          <!---->
+
+
           *   Transparency : **Transparent in working process & communication**
+
+
+          <!---->
 
 
           *   Optimism : **Act as a change agent with positivity & confidence**
