@@ -32,36 +32,9 @@ sections:
         title: Our Mission
         image: images/our vision.jpg
       - title: Our Values
-        content: |
-          Trust
-
-          Optimism
-
-          Transparency
-
-          Professional Action
-
-          *   Entrepreneurial mindset
-
-          <!---->
-
-          *   Transparent in working process & communication
-
-          <!---->
-
-          *   Act as a change agent with positivity & confidence
-
-          <!---->
-
-          *   Systematic & strategic approach towards opportunities
-
-          <!---->
-
-          *   Become a reliable & committed partner of the ecosystem
-
-          <!---->
-
-          *   Identify new opportunities and provide innovative solutions
+        content: >
+          *   Entrepreneurial mindset - Identify new opportunities and provide
+          innovative solutions.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
