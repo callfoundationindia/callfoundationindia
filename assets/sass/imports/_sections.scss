@@ -343,10 +343,8 @@
     .grid {
       grid-template-columns: repeat(1, 1fr);
 
-      .card{
-          display: block;  
-            margin-left: auto;  
-            margin-right: auto;
+      .cell-plan{
+          align-items: center;
       }
     }
     }
