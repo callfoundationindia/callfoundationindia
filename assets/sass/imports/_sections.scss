@@ -353,8 +353,10 @@
     #what-we-do{
     .grid {
       grid-template-columns: repeat(1, 1fr);
-      margin-left: 100px;
-      margin-right: 0;
+      grid-auto-flow: row;
+  gap: 4px;
+  align-items: center;
+  justify-items: center;
     }
 } 
 
