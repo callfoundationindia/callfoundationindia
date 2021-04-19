@@ -25,9 +25,10 @@ sections:
     title: About Us
     features:
       - image_alt: App preview on a phone and tablet
-        content: >
+        content: >+
           The fundamental purpose of the CALL Foundation is to generate
           livelihood opportunities and improve the quality of life in India.
+
         actions: []
         title: Our Mission
         image: images/our vision.jpg
