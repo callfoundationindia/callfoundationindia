@@ -52,8 +52,7 @@
         padding-left: 0;
 
         ol{
-            display: grid;
-            grid-column: 1 / span 2;
+            display: flex;
             list-style: none;
             padding: 0;
             padding: 10px;
