@@ -340,10 +340,6 @@
 
 @media(max-width: 380px){
     #what-we-do{
-        .grid{
-            grid-template-columns: repeat(1,1fr);
-        }
-
         .card{
             width: 100%;
         }
