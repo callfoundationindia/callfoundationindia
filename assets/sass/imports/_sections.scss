@@ -343,11 +343,6 @@
     .grid {
       grid-template-columns: repeat(1, 1fr);
     }
-
-    .cell-plan{
-        grid-column: 1 / span 2;
-        align-self: center;
-    }
     }
 
     #what-we-do{
