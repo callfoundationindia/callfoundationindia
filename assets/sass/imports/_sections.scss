@@ -346,7 +346,7 @@
   }
 }
 
-@media(min-width: 401pxmax-width: 800px){
+@media(min-width: 401px and max-width: 800px){
     #our-team{
     .grid {
       grid-template-columns: repeat(1, 1fr);
