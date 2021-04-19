@@ -19,6 +19,7 @@
         ul{
             display: grid;
             grid-template-columns: repeat(1, 1fr);
+            grid-gap: 10px;
             width : 110%;
             text-align: center;
             list-style: none;
