@@ -38,11 +38,11 @@ sections:
 
           Identify new opportunities and provide innovative solutions
 
-          *   **Professional Action : **
+          *   **Professional Action :**
 
           Systematic & strategic approach towards opportunities
 
-          *   **Trust : **
+          *   **Trust :**
 
           Become a reliable & committed partner of the ecosystem
 
