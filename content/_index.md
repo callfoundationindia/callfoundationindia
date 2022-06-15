@@ -2,6 +2,7 @@
 title: Home
 sections:
   - section_id: hero0
+    type: section_features
     background: gray
     image: images/children in village.jpg
     image_alt: App preview
