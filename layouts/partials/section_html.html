@@ -1,0 +1,4 @@
+{{ $section := .section }}
+<section id="{{ $section.section_id }}" class="block hero-block bg-accent outer">
+    {{ partial "markdownify-block" $section.content }}
+</section><!-- .block -->
