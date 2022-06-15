@@ -8,7 +8,7 @@ sections:
     title: Workshop
     actions:
       - label: View Workshops
-        url: 'workshop.md'
+        url: 'blog/workshop.md'
         style: primary
       - style: link
         has_icon: false
