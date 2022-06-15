@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Poster.jpeg
     image_alt: App preview
-    title: Workshop
+    title: Upcoming Workshops
     actions:
       - label: View Workshops
         url: 'workshops/'
