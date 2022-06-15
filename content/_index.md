@@ -257,7 +257,7 @@ seo:
       value: The fundamental purpose of the CALL Foundation is to generate livelihood opportunities and improve the quality of life in India.
       keyName: property
     - name: 'og:image'
-      value: images/logo.jpg
+      value: static/images/logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -267,7 +267,7 @@ seo:
     - name: 'twitter:description'
       value: The fundamental purpose of the CALL Foundation is to generate livelihood opportunities and improve the quality of life in India.
     - name: 'twitter:image'
-      value: images/logo.jpg
+      value: static/images/logo.jpg
       relativeUrl: true
   description: Comprehensive Action for Life and Livelihood
 layout: landing
