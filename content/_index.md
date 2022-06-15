@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero0
     type: section_hero
-    image: images/children in village.jpg
+    image: images/Poster.jpeg
     image_alt: App preview
     title: Workshop
     actions:
