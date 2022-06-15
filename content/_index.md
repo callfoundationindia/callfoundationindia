@@ -18,7 +18,7 @@ sections:
         no_follow: false
         type: action
     content: |
-      CALL Foundation is coming up with exclusive pragmatic workshops for students from diverse fields, each workshop will be delivered by professionals from related fields having proven performance record. The money raised by foundation through this drive will be used for creating and supporting new livelihood opportunities for the rural families. We are thankful to our students and professionals who are showing interest and registering in huge numbers and getting benefitted.  We extend our gratitude to the eminent speakers who have voluntarily agreed to deliver quality content to the participants. The entire CALL Foundation team is working on making quality content and guidance reach to the participants, do come and enjoy the quality content at affordable prices contribute to the rural livelihood with your contribution.
+      CALL Foundation is coming up with exclusive pragmatic workshops for students from diverse fields, each workshop will be delivered by professionals from related fields having proven performance record.
   - section_id: hero
     type: section_hero
     image: images/children in village.jpg
