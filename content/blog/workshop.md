@@ -2,9 +2,7 @@
 title: Workshop
 date: '2021-03-19'
 excerpt: >-
-  As our name CALL – Comprehensive Action in Life and Livelihood suggests, CALL
-  Foundation is dedicated to coming up with professional solutions helpful in
-  tackling the issues and enhancement of quality of life and livelihood.
+  CALL Foundation is coming up with exclusive pragmatic workshops for students from diverse fields, each workshop will be delivered by professionals from related fields having proven performance record.
 seo:
   title: ''
   description: ''
@@ -12,7 +10,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-image: images/marvelous-daffodil.jpg
 thumb_image: images/plane.jpg
 author: data/authors/person-k26vfp1qh.json
 ---
