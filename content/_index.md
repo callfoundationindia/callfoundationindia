@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero0
+  - section_id: about-us
     type: section_features
     background: gray
     image: images/children in village.jpg
