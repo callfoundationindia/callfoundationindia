@@ -1,6 +1,24 @@
 ---
 title: Home
 sections:
+  - section_id: hero0
+    type: section_hero
+    image: images/children in village.jpg
+    image_alt: App preview
+    title: Workshop
+    actions:
+      - label: View Workshops
+        url: '#join-us'
+        style: primary
+      - style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
+    content: |
+      Test for Workshop
   - section_id: hero
     type: section_hero
     image: images/children in village.jpg
