@@ -251,23 +251,23 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Call Foundation
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: The fundamental purpose of the CALL Foundation is to generate livelihood opportunities and improve the quality of life in India.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/logo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Call Foundation
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: The fundamental purpose of the CALL Foundation is to generate livelihood opportunities and improve the quality of life in India.
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/logo.jpg
       relativeUrl: true
   description: Comprehensive Action for Life and Livelihood
 layout: landing
