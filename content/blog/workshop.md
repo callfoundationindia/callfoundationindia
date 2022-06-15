@@ -10,7 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: images/plane.jpg
+thumb_image: images/Poster.jpeg
 author: data/authors/person-k26vfp1qh.json
 ---
 <div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
