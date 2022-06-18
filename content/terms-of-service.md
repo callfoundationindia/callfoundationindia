@@ -64,6 +64,6 @@ If any provision of this agreement is unlawful, void, or unenforceable, the rema
 
 <b>HOW TO CONTACT US</b><br/>
 CALL Foundation, C/O Umashankar Thakur, Village- Rajawara, Post
-Mushari Farm, District Muzaffarpur, Bihar, Pin code-842002
-Email id: contact@callfoundation.co.in
+Mushari Farm, District Muzaffarpur, Bihar, Pin code-842002<br/>
+Email id: contact@callfoundation.co.in<br/>
 Call us on Tel: +918518965618
