@@ -113,13 +113,13 @@ params:
         type: footer_text
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
-        title: Contact Number:
+        title: Contact Number
         content: | 
           +918518965618
         type: footer_text
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
-        title: Postal Address:
+        title: Postal Address
         content: |
           CALL Foundation, C/O Umashankar Thakur, 
           Village- Rajawara, Post Mushari Farm, 
