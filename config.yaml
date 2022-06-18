@@ -73,7 +73,7 @@ params:
             url: '#join-us'
             style: link
           - label: Privacy Policy
-            url: '/privacy-policy.md'
+            url: 'content/privacy-policy.md'
             style: link
             has_icon: false
             icon: arrow-left
