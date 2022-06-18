@@ -72,6 +72,24 @@ params:
           - label: Join Us
             url: '#join-us'
             style: link
+          - label: Privacy Policy
+            url: 'privacy-policy'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Terms & Conditions
+            url: 'terms-of-service'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
       - type: footer_nav
         title: Community
         nav_links:
@@ -92,6 +110,20 @@ params:
         title: Email us at
         content: |
           contact@callfoundation.co.in
+        type: footer_text
+      - image_alt: lorem-ipsum
+        image_url: lorem-ipsum
+        title: Contact Number
+        content: | 
+          +918518965618
+        type: footer_text
+      - image_alt: lorem-ipsum
+        image_url: lorem-ipsum
+        title: Postal Address
+        content: |
+          CALL Foundation, C/O Umashankar Thakur, 
+          Village- Rajawara, Post Mushari Farm, 
+          District Muzaffarpur, Bihar, Pin code-842002
         type: footer_text
     has_nav: true
     nav_links: []
