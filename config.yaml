@@ -105,6 +105,18 @@ params:
             has_icon: true
             icon: instagram
             icon_position: left
+          - label: Facebook
+            style: link
+            has_icon: true
+            icon: facebook
+            icon_position: left
+            url: 'https://www.facebook.com/callfoundation/'
+          - label: Linkedin
+            url: 'https://www.linkedin.com/company/call-foundation/?viewAsMember=true'
+            style: link
+            has_icon: true
+            icon: linkedin
+            icon_position: left
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
         title: Email us at
