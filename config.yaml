@@ -110,6 +110,9 @@ params:
         title: Email us at
         content: |
           contact@callfoundation.co.in
+        title: Contact Number
+        content: | 
+          +918518965618
         type: footer_text
       - image_alt: lorem-ipsum
         image_url: lorem-ipsum
