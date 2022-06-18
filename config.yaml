@@ -82,7 +82,7 @@ params:
             no_follow: false
             type: action
           - label: Terms & Conditions
-            url: 'privacy-of-service'
+            url: 'terms-of-service'
             style: link
             has_icon: false
             icon: arrow-left
