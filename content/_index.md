@@ -7,9 +7,6 @@ sections:
     image_alt: App preview
     title: Upcoming Workshops
     actions:
-      - label: View Workshops
-        url: 'workshops/'
-        style: primary
       - label: Register for Upcoming Workshop
         url: 'https://pages.razorpay.com/pl_JkT0amamFJ8iiS/view'
         style: primary
