@@ -10,6 +10,9 @@ sections:
       - label: View Workshops
         url: 'workshops/'
         style: primary
+      - label: Register for Upcoming Workshop
+        url: 'https://pages.razorpay.com/pl_JkT0amamFJ8iiS/view'
+        style: primary
       - style: link
         has_icon: false
         icon: arrow-left
