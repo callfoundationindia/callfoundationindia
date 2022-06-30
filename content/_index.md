@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero0
     type: section_hero
-    image: images/Poster.jpeg
+    image: images/Dairy & Meat Workshop Poster.png
     image_alt: App preview
     title: Upcoming Workshops
     actions:
